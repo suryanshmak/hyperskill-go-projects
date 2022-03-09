@@ -6,8 +6,6 @@ Instructions are in the READMES inside each folder, linked in the Table of Conte
 
 You can find my solutions for each of the problems, and the original source where the challenges came from.
 
-<img style="align-content: center" alt="WIP" src="https://media.giphy.com/media/4HgAbIa6ZVLEq05cjv/giphy.gif" width="200"/>
-
 ---
 
 ### Clone
