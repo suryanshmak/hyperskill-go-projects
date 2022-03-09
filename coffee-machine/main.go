@@ -5,7 +5,6 @@ import (
 )
 
 func main() {
-	// write your code here
 	var water, milk, beans, cups int
 	fmt.Scan(&water)
 	fmt.Scan(&milk)
