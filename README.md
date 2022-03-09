@@ -12,7 +12,10 @@ You can find my solutions for each of the problems, and the original source wher
 
 ### Clone
 
-- Clone this repo to your local machine using ```https://github.com/suryanshmak/hyperskill-go-projects```
+- Clone this repo to your local machine using 
+```
+https://github.com/suryanshmak/hyperskill-go-projects
+```
 
 ---
 
