@@ -1,2 +1,2 @@
 # hyperskill-go-projects
-JetBrains Academy Go projects 
+My answers to JetBrains Academy Go projects.
