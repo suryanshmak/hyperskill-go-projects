@@ -5,7 +5,7 @@
 ### About this project
 This project simulates a virtual coffee machine. The first and second stages are quite simple so I haven't posted the code for them.
 
-### I would highly recommend you to take ![Couse Link](https://hyperskill.org/tracks/25)
+### I would highly recommend you to take ![the course](https://hyperskill.org/tracks/25)
 
 It runs on 4 ingredients:
 - Milk
