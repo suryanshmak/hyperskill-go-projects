@@ -19,7 +19,7 @@ You can find my solutions for each of the problems, and the original source wher
 ## Table of Contents
 <img style="align-content: center" alt="WIP" src="https://media.giphy.com/media/LMia8kOesIyAnS7lvP/giphy.gif" width="200"/>
 
-- [☕ Coffee Machine](Coffee%20Machine/README.md)
-- [Obscene Word Checker](Simple%20Chatty%20Bot/README.md)
+- [☕ Coffee Machine](coffee-machine/README.md)
+- [Obscene Word Checker](obscene-word-checker/README.md)
 
 ---
