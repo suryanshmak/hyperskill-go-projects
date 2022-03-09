@@ -5,6 +5,8 @@
 ### About this project
 This project simulates a virtual coffee machine. The first and second stages are quite simple so I haven't posted the code for them.
 
+## I would highly recommend you to take the JetBrains Academy Go Project Course
+
 It runs on 4 ingredients:
 - Milk
 - Water 
