@@ -18,6 +18,9 @@ https://github.com/suryanshmak/hyperskill-go-projects
 ---
 
 ## Table of Contents
+
+- Simple Chatty bot is
+
 <img style="align-content: center" alt="WIP" src="https://media.giphy.com/media/LMia8kOesIyAnS7lvP/giphy.gif" width="200"/>
 
 - [☕ Coffee Machine](coffee-machine/README.md)
