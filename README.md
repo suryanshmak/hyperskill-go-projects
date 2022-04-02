@@ -1,6 +1,6 @@
 # JetBrains Academy Go Projects
 
-If you want to try this projects, clone this repo. 
+If you want to try these projects, clone this repo. 
 
 Instructions are in the README inside each folder, linked in the Table of Contents bellow.
 
