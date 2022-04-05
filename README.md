@@ -24,6 +24,6 @@ https://github.com/suryanshmak/hyperskill-go-projects
 <img style="align-content: center" alt="WIP" src="https://media.giphy.com/media/LMia8kOesIyAnS7lvP/giphy.gif" width="200"/>
 
 - [☕ Coffee Machine](coffee-machine/README.md)
-- [❌ Obscene Word Checker](obscene-vocab-checker/README.md)
+- [❌ Obscene Word Checker](obscene-vocab-checker#readme)
 
 ---
