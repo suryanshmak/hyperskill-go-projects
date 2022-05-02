@@ -21,8 +21,6 @@ https://github.com/suryanshmak/hyperskill-go-projects
 
 - Simple Chatty bot is quite simple and doesn't need much explanation.
 
-<img style="align-content: center" alt="WIP" src="https://media.giphy.com/media/LMia8kOesIyAnS7lvP/giphy.gif" width="200"/>
-
 - [☕ Coffee Machine](coffee-machine/README.md)
 - [❌ Obscene Word Checker](obscene-word-checker/README.md)
 
